@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Mon May  1 22:59:35 2023
+# Process ID: 24412
+# Current directory: C:/Repos/xilinx/arty-a7-35t-ping-pong-leds/arty_ping_pong_led.runs/impl_1
+# Command line: vivado.exe -log top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top.tcl -notrace
+# Log file: C:/Repos/xilinx/arty-a7-35t-ping-pong-leds/arty_ping_pong_led.runs/impl_1/top.vdi
+# Journal file: C:/Repos/xilinx/arty-a7-35t-ping-pong-leds/arty_ping_pong_led.runs/impl_1\vivado.jou
+# Running On: DESKTOP-44UUPSP, OS: Windows, CPU Frequency: 2695 MHz, CPU Physical cores: 32, Host memory: 68543 MB
+#-----------------------------------------------------------
+source top.tcl -notrace
